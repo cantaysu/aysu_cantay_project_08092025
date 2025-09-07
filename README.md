@@ -1,4 +1,4 @@
-Insider QA Automation Tests
+QA Automation Tests
 
 This repository contains Selenium-based automated tests for Insider's website, focusing on the Careers section and Quality Assurance job listings. The tests are written in Python using the Page Object Model (POM) for better maintainability and readability.
 
